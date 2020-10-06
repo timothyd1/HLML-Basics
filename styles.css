@@ -1,0 +1,15 @@
+body {
+  background-color: #c9b2da;
+}
+h1 {
+  color: blue;
+  font-family: 'SmallCaps', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+}
+form {
+  text-align: center;
+  font-family: 'SmallCaps', sans-serif;
+}
